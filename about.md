@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I’m Chen(晨) Bao(鲍). Born and raised in Jiangxi Province, in Southern China, I’ve been now living in the UK.
 
-### More Information
+I’m a Msc student in Digital Economy. I spend most of my time on my master's project and lots of coding for not-always-so-related side projects.
+### Current Area
 
-A place to include any other types of information that you'd like to include about yourself.
+Digital Humanities
+Digital Economy
+Investing Bank
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chenbao99w@gmail.com](mailto:chenbao99w@gmail.com)
