@@ -3,7 +3,7 @@ layout: default
 title: Hansard
 ---
 
-A website for the official report of all Parliamentary debates. Find Members, their contributions, debates, petitions and divisions from published Hansard reports dating back over 200 years. Daily debates from Hansard are published on this website the next working day.
+A website for the official report of all Parliamentary debates. Find Members, their contributions, debates, petitions and divisions from published Hansard reports dating back over 200 years. Daily debates from Hansard are published on Hansard.
 
 The Hansard can not only provide research materials for researchers engaged in the study of British history and the history of changes in the British Parliament, but also serve as an important resource for politicians who need to make decisions or proposals in Parliament.
 
