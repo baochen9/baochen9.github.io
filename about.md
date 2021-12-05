@@ -10,8 +10,10 @@ I’m a postgraduate student in Digital Economy. I spend most of my time on my m
 ### Current Area
 
 Digital Humanities
+
 Digital Economy
-Investing Bank
+
+Investment Bank
 
 ### Contact me
 
